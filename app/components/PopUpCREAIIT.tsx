@@ -118,7 +118,7 @@ export default function PopupCREAIIT({ onClose }: PopupProps) {
                 CREAI+IT 학회에서 여러분의 창의적인 아이디어와 열정을 기다립니다. 함께 미래를 만들어갈 준비가 되셨나요?
               </p>
               <a 
-                href="https://forms.gle/bq2kba9ked7iWKQC8"
+                href="https://forms.gle/BQfSbEoTN19rw2hj7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center space-x-2 bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-[1.02] group"
