@@ -73,7 +73,7 @@ export default function PromotionSection({ onShowPopup }: PromotionSectionProps)
           </motion.button>
           
           <motion.button
-            onClick={() => window.open('https://forms.gle/bq2kba9ked7iWKQC8', '_blank')}
+            onClick={() => window.open('https://forms.gle/BQfSbEoTN19rw2hj7', '_blank')}
             whileHover={{ scale: 1.03 }}
             whileTap={{ scale: 0.98 }}
             className="px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg font-medium text-white hover:from-purple-700 hover:to-pink-700 transition-all duration-200 flex items-center justify-center gap-2 shadow-md"
