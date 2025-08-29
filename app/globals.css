@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Force dark mode to create a consistent dark theme look.
+   Or you can handle toggling with "dark" class in your layout. */
+html {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-gray-900 text-gray-100;
+  font-family: 'Pretendard', sans-serif; /* Example Korean-friendly font */
+}
+
+/* Disable animations globally */
+* {
+  animation: none !important;
+  transition: none !important;
+  transform: none !important;
+}
